@@ -25,7 +25,7 @@
 
 <h3>Discord</h3>
 <a href="https://discord.com/users/1408045901745885225" target="_blank">
-  <img src="https://lanyard.cnrad.dev/api/1408045901745885225?bg=0d1117&borderRadius=10px&idleMessage=probably manipulating DOM..&theme=dark&showDisplayName=true&hideBadges=true" width="500px" />
+  <img src="https://lanyard.cnrad.dev/api/1408045901745885225?bg=0d1117&borderRadius=10px&idleMessage=probably%20manipulating%20DOM..&theme=dark&showDisplayName=true&hideBadges=true" width="500px" />
 </a>
 
 <br>
