@@ -20,27 +20,19 @@
 </div>
 
 
+<img src="images/levi-vertical.png" width="280" align="right" alt="Levi Vertical" />
 
-<table align="left" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="left" valign="top" style="border: none;">
-      <h3>Discord</h3>
-      <a href="https://discord.com/users/1408045901745885225" target="_blank">
-        <img src="https://lanyard.cnrad.dev/api/1408045901745885225?bg=0d1117&borderRadius=10px&idleMessage=DEVELOPING...&theme=dark&showDisplayName=true&hideBadges=true" width="400px" />
-      </a>
-      <br>
-      <h3>Stats</h3>
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=thunderzz12&theme=tokyonight&hide_border=true" width="400px" />
-      </a>
-    </td>
-    <td align="center" valign="top" style="border: none; padding-left: 20px;">
-      <img src="images/levi-vertical.png" width="280px" alt="Levi Vertical" />
-    </td>
-  </tr>
-</table>
+<h3>Discord</h3>
+<a href="https://discord.com/users/1408045901745885225" target="_blank">
+  <img src="https://lanyard.cnrad.dev/api/1408045901745885225?bg=0d1117&borderRadius=10px&idleMessage=DEVELOPING...&theme=dark&showDisplayName=true&hideBadges=true" width="400px" />
+</a>
 
-<br clear="both">
+<br>
+
+<h3>Stats</h3>
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thunderzz12&theme=tokyonight&hide_border=true" width="400px" />
+</a>
 
 <div align="center">
   <picture>
