@@ -23,14 +23,14 @@
 
 <img src="images/levi-vertical.png" width="250" align="right" alt="Levi Vertical" />
 
-<h2>Discord</h2>
+<h3>Discord</h3>
 <a href="https://discord.com/users/1408045901745885225" target="_blank">
   <img src="https://lanyard.cnrad.dev/api/1408045901745885225?bg=0d1117&borderRadius=10px&idleMessage=DEVELOPING...&theme=dark&showDisplayName=true&hideBadges=true" width="500px" />
 </a>
 
 <br>
 
-<h2>Stats</h2>
+<h3>Stats</h3>
 <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=thunderzz12&theme=tokyonight&hide_border=true" width="500px" />
 </a>
