@@ -1,0 +1,22 @@
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .thick { 
+      font: 900 90px 'Arial Black', sans-serif; 
+      text-transform: uppercase; 
+      letter-spacing: -2px;
+    }
+    /* The Stacked Outline Layers */
+    .layer-1 { stroke: #00F0FF; stroke-width: 2px; opacity: 0.2; } /* Cyan */
+    .layer-2 { stroke: #ADFF00; stroke-width: 2px; opacity: 0.4; } /* Green */
+    .layer-3 { stroke: #FFEA00; stroke-width: 2px; opacity: 0.6; } /* Yellow */
+    
+    /* The Main Solid Text */
+    .main { fill: #FFFFFF; filter: drop-shadow(0px 0px 10px rgba(255, 255, 255, 0.3)); }
+  </style>
+
+  <text x="50%" y="120" text-anchor="middle" class="thick layer-1" transform="translate(8, -12)">THUNDERZZ</text>
+  <text x="50%" y="120" text-anchor="middle" class="thick layer-2" transform="translate(4, -6)">THUNDERZZ</text>
+  <text x="50%" y="120" text-anchor="middle" class="thick layer-3" transform="translate(-4, 6)">THUNDERZZ</text>
+  
+  <text x="50%" y="120" text-anchor="middle" class="thick main">THUNDERZZ</text>
+</svg>
