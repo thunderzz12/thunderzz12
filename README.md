@@ -19,6 +19,7 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,unity" /></a>
 </div>
 
+<br><br>
 
 <img src="images/levi-vertical.png" width="280" align="right" alt="Levi Vertical" />
 
