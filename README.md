@@ -5,9 +5,6 @@
   <br>
   <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" height="35px" width="1px" />
   <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=full+stack+web+developer;chromium+extensions+&lt;3;discord+bots/pluggins;.io+scripts+and+modding" alt="Typing SVG" />
-  </a>
 
 
 
