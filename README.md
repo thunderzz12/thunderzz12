@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/header.svg" alt="Thunderzz Header" width="600" />
+  Hey there! Myself thunderzz. I like working on chromium based extensions, webapps, reverse engineering and electron apps.
   <br>
   <kbd>Developer</kbd> • <kbd>Chromium &lt;3</kbd> • <kbd>Discord.js</kbd>
   <br>
@@ -13,10 +13,10 @@
 
 
   <h3>Stack</h3>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,electron,nodejs,py,supabase,discord" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,tailwind,react,electron,nodejs,py,supabase,discord" /></a>
 
   <h3>Learning</h3>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,unity" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,kotlin" /></a>
 </div>
 
 <br><br>
