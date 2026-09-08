@@ -1,5 +1,5 @@
 <div align="center">
-  Hey there! Myself thunderzz. I like working on chromium based extensions, webapps, reverse engineering and electron apps.
+  Hey there! Myself thunderzz. I like working on chromium based extensions (most are closed src!), webapps, reverse engineering and electron apps.
   <br><br>
   <kbd>Developer</kbd> • <kbd>Chromium &lt;3</kbd> • <kbd>Discord.js</kbd>
   
